@@ -190,7 +190,7 @@ Examples:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/indian-stock-market-predictor.git
+git clone https://github.com/akashsuryawanshi04/indian-stock-market-predictor.git
 ```
 
 ---
