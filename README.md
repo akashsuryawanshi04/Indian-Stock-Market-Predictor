@@ -347,12 +347,6 @@ Add screenshot here:
 screenshots/dashboard.png
 ```
 
-Example:
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-```
-
 ---
 
 # 📊 Model Performance Metrics
