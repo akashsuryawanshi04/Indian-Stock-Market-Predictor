@@ -411,14 +411,6 @@ MCA Student | AI/ML Developer | Full Stack Developer
 
 ---
 
-# ⭐ If You Like This Project
-
-Please consider:
-- Starring the repository
-- Forking the project
-- Sharing feedback
-
----
 
 # 📄 License
 
