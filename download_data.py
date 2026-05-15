@@ -34,8 +34,8 @@ for stock in stocks:
 
     data = yf.download(
         stock,
-        start="2018-01-01",
-        end="2026-05-14",
+        start="2018-01-01",  // date from 
+        end="2026-05-14", // date up to
         auto_adjust=False,
         progress=False
     )
