@@ -46,7 +46,7 @@ Implemented:
 
 ## ✅ Machine Learning Model
 Uses:
-- RandomForestRegressor
+- Random Forest Regression
 
 Predicts:
 - Next-day stock closing price
